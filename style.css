@@ -72,6 +72,7 @@ h3{
 h4{
     padding-bottom: 1rem;
     font-size: 1.5rem;
+    
 }
 
 img{
@@ -93,10 +94,17 @@ img{
     text-align: justify;
     
   }
- .pointer{
+    
+  .gap{
+    display: flexbox;
+    justify-content: space-evenly;
+  }
+  
+  /* .pointer{
     
     list-style-position: outside;
- }
+    
+ } */
  .center{
     padding-left: 14rem;
  }
